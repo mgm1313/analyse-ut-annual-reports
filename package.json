@@ -1,0 +1,24 @@
+{
+  "name": "analyse-ut-annual-reports",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Tool used in research about Open Research Data to analyse the University of Twente annual reports for certain keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgm1313/analyse-ut-annual-reports.git"
+  },
+  "author": "M.G. Misana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgm1313/analyse-ut-annual-reports/issues"
+  },
+  "homepage": "https://github.com/mgm1313/analyse-ut-annual-reports#readme",
+  "dependencies": {
+    "pdfreader": "^2.0.0"
+  }
+}
